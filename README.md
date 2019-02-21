@@ -1,6 +1,8 @@
 # LlamaRiders
 **The friendliest hungarian Discord community.**
 
+<img src="https://cdn.discordapp.com/attachments/423730481293557763/548138038102982666/logo1.png" width="100" height="100">
+
 ## Kik is vagyunk?
 
 A LlamaRiders 2017. november 11-én alakult BitLlama#1733 által. Alapvetően nincs témája a szervernek, mivel azt szeretnénk elérni, hogy
