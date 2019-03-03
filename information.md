@@ -35,13 +35,13 @@ Csak írj privátban a @Support#3604 botnak, és megkapjuk az üzeneted.
 
 
 ## __**Staff**__
-🔹 Tulajdonos: @BitLlama#1733 
+:small_blue_diamond: Tulajdonos: @BitLlama 
 
-🔹 Adminisztrátor: @OnlyDAVE#3872 
+:small_blue_diamond: Adminisztrátor: @OnlyDAVE 
 
-🔹 Moderátorok: @Xs Project#7929, @Valentine#9944
+:small_blue_diamond: Moderátorok: @Xs Project, @Valentine, @NotTheMatthew 
 
-🔹 Helperek: @⎝⎝nagydani1016⎠⎠#2258 és @NotTheMatthew#7016
+:small_blue_diamond: Helperek: @nagydani1016 és @orange
 
 
 ## __**LlamaRiders szabályzat**__
