@@ -26,7 +26,7 @@ ami maximum 10 percet vesz igénybe, majd az elbírálás után jobb esetben sta
 
 A LlamaNitro egy exkluzív rang, amelynek az alábbi előnyei vannak:
 
-• 50:llamacoin: naponta
+• 50 LlamaCoin naponta
 
 • Exkluzív, magas sávszélességű voice csatorna
 
