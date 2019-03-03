@@ -10,17 +10,20 @@ Több mint 10 csatornánk van szórakozásra, és beszélgetésre a barátságos
 ## __**Információ**__
 
 :small_orange_diamond: **Hogyan lehetsz partner?**
+
 Egyszerű: töltsd ki a partnerségi nyilatkozatot! A linket a #partnerek szobában találod!
 Ha elfogadom a nyilatkozatot, akkor ellenőrzés erejéig belépek a szerverre, de utána kilépek.
 
 
 
 :small_orange_diamond: **Hogyan lehetsz staff?**
+
 Ha éppen tagfelvétel van a szerveren, akkor ebbe a szobába kikerül egy link, ahol ki kell töltened egy kerdőívet, 
 ami maximum 10 percet vesz igénybe, majd az elbírálás után jobb esetben staff is leszel!
 
 
 :small_orange_diamond: **LlamaNitro**
+
 A LlamaNitro egy exkluzív rang, amelynek az alábbi előnyei vannak:
 
 • 50:llamacoin: naponta
