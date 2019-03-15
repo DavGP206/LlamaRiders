@@ -8,7 +8,7 @@
 A LlamaRiders 2017. november 11-én alakult BitLlama#1733 által. Alapvetően nincs témája a szervernek, mivel azt szeretnénk elérni, hogy
 mindenki jól érezze magát. Több mint 10 csatornánk van szórakozásra, és beszélgetésre a barátságos közösséggel és staffal.
 
-[További infó→](https://github.com/TheBitLlama/LlamaRiders/edit/master/information.md)
+[További infó→](https://github.com/TheBitLlama/LlamaRiders/blob/master/information.md)
 
 ## Mi ez a GitHub cucc?
 
